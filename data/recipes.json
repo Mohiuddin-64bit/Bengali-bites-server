@@ -1,0 +1,164 @@
+{
+  "recipes": [
+    {
+      "chef_id": 1,
+      "name": "Grilled Salmon with Asparagus",
+      "ingredients": ["salmon fillets", "asparagus", "olive oil", "salt", "pepper", "lemon juice"],
+      "method": "1. Preheat the grill to medium-high heat. 2. Season the salmon fillets with salt, pepper, and lemon juice. 3. Brush the asparagus with olive oil. 4. Grill the salmon fillets for 5-7 minutes on each side. 5. Grill the asparagus for 3-4 minutes on each side. 6. Serve hot.",
+      "rating": 4.5,
+      "favorite": false
+    },
+    {
+      "chef_id": 1,
+      "name": "Pesto Pasta Salad",
+      "ingredients": ["penne pasta", "basil pesto", "cherry tomatoes", "red onion", "feta cheese", "olive oil"],
+      "method": "1. Cook the penne pasta according to package instructions. 2. Drain the pasta and rinse with cold water. 3. In a large bowl, mix the pasta with the basil pesto. 4. Add the cherry tomatoes, red onion, and feta cheese. 5. Drizzle with olive oil and mix well. 6. Serve chilled.",
+      "rating": 4.2,
+      "favorite": true
+    },
+    {
+      "chef_id": 1,
+      "name": "Lemon Rosemary Chicken",
+      "ingredients": ["chicken breasts", "lemon juice", "rosemary", "garlic", "salt", "pepper"],
+      "method": "1. Preheat the oven to 400°F. 2. Season the chicken breasts with salt, pepper, and rosemary. 3. In a small bowl, mix the lemon juice and minced garlic. 4. Drizzle the lemon garlic mixture over the chicken breasts. 5. Bake the chicken for 25-30 minutes, or until cooked through. 6. Serve hot.",
+      "rating": 4.8,
+      "favorite": false
+    },
+    {
+      "chef_id": 2,
+      "name": "Thai Green Curry",
+      "ingredients": ["chicken", "green curry paste", "coconut milk", "fish sauce", "sugar", "bamboo shoots"],
+      "method": "1. In a large saucepan, heat the green curry paste over medium heat for 2-3 minutes. 2. Add the chicken and cook until browned on all sides. 3. Add the coconut milk and bring to a simmer. 4. Add the fish sauce, sugar, and bamboo shoots. 5. Simmer for 10-15 minutes, or until the chicken is cooked through. 6. Serve hot with rice.",
+      "rating": 4.6,
+      "favorite": true
+    },
+    {
+      "chef_id": 2,
+      "name": "Tofu Stir-Fry",
+      "ingredients": ["tofu", "broccoli", "red bell pepper", "soy sauce", "garlic", "sesame oil"],
+      "method": "1. Drain the tofu and pat dry with a paper towel. 2. Cut the tofu into cubes. 3. Cut the broccoli and red bell pepper into bite-sized pieces. 4. In a large skillet, heat the sesame oil over medium-high heat. 5. Add the garlic and cook for 1-2 minutes. 6. Add the tofu and cook until browned on all sides. 7. Add the broccoli and red bell pepper and cook until tender. 8. Drizzle with soy sauce and serve hot with rice.",
+      "rating": 4.2,
+      "favorite": false
+    },
+    {
+      "chef_id": 2,
+      "name": "Mango Sticky Rice",
+      "ingredients": ["sticky rice", "coconut milk", "sugar", "salt", "mango"],
+      "method": "1. Rinse the sticky rice in cold water and drain. 2. In a large saucepan, combine the sticky rice, coconut milk, sugar, and salt. 3. Bring to a simmer and cook for 15-20 minutes, or until the rice is tender. 4. Remove from heat and let sit for 5-10 minutes. 5. Peel and slice the mango. 6. Serve the sticky rice with the mango slices on top.",
+      "rating": 4.8,
+      "favorite": true
+    },
+    {
+      "chef_id": 3,
+      "name": "Crispy Fried Chicken",
+      "ingredients": ["chicken wings", "flour", "cornstarch", "garlic powder", "paprika", "salt"],
+      "method": "1. In a large bowl, mix together the flour, cornstarch, garlic powder, paprika, and salt. 2. Dredge the chicken wings in the flour mixture, shaking off any excess. 3. In a large skillet, heat 1 inch of oil over medium-high heat. 4. Add the chicken wings and fry until crispy and golden brown, about 5-7 minutes on each side. 5. Drain on paper towels. 6. Serve hot with your favorite dipping sauce.",
+      "rating": 4.5,
+      "favorite": false
+    },
+    {
+      "chef_id": 3,
+      "name": "Beef Stroganoff",
+      "ingredients": ["beef sirloin", "onion", "mushrooms", "sour cream", "beef broth", "egg noodles"],
+      "method": "1. Cut the beef sirloin into thin strips. 2. In a large skillet, sauté the onion and mushrooms until tender. 3. Add the beef strips and cook until browned on all sides. 4. In a small bowl, whisk together the sour cream and beef broth. 5. Add the sour cream mixture to the skillet and bring to a simmer. 6. Cook for 5-7 minutes, or until the sauce has thickened. 7. Serve hot over egg noodles.",
+      "rating": 4.7,
+      "favorite": true
+    },
+    {
+      "chef_id": 3,
+      "name": "Apple Pie",
+      "ingredients": ["apples", "sugar", "cinnamon", "flour", "butter", "pie crust"],
+      "method": "1. Preheat the oven to 375°F. 2. Peel, core, and slice the apples. 3. In a small bowl, mix together the sugar, cinnamon, and flour. 4. In a large bowl, toss the sliced apples with the sugar mixture. 5. Roll out the pie crust and place it in a 9-inch pie dish. 6. Pour the apple mixture into the pie crust. 7. Dot with butter. 8. Cover with the second pie crust and crimp the edges to seal. 9. Cut a few slits in the top of the crust. 10. Bake for 45-50 minutes, or until the crust is golden brown. 11. Serve warm with vanilla ice cream.",
+      "rating": 4.9,
+      "favorite": true
+    },
+    {
+      "chef_id": 3,
+      "name": "Shrimp Scampi",
+      "ingredients": ["shrimp", "garlic", "butter", "white wine", "lemon juice", "parsley", "linguine"],
+      "method": "1. Cook the linguine according to the package instructions. 2. In a large skillet, melt the butter over medium heat. 3. Add the garlic and cook for 1-2 minutes, or until fragrant. 4. Add the shrimp and cook until pink and cooked through, about 2-3 minutes on each side. 5. Add the white wine and lemon juice and bring to a simmer. 6. Simmer for 5-7 minutes, or until the sauce has thickened. 7. Serve the shrimp and sauce over the cooked linguine. 8. Garnish with parsley.",
+      "rating": 4.6,
+      "favorite": false
+    },
+    {
+      "chef_id": 3,
+      "name": "Cherry Cheesecake",
+      "ingredients": ["graham cracker crumbs", "butter", "cream cheese", "sugar", "vanilla extract", "eggs", "cherry pie filling"],
+      "method": "1. Preheat the oven to 350°F. 2. In a small bowl, mix together the graham cracker crumbs and melted butter. 3. Press the mixture into the bottom of a 9-inch springform pan. 4. In a large bowl, beat the cream cheese, sugar, and vanilla extract until smooth. 5. Add the eggs, one at a time, beating well after each addition. 6. Pour the cream cheese mixture into the springform pan. 7. Bake for 45-50 minutes, or until the cheesecake is set. 8. Let cool to room temperature, then refrigerate for at least 2 hours. 9. Top with cherry pie filling before serving.",
+      "rating": 4.8,
+      "favorite": true
+    },
+    {
+      "chef_id": 4,
+      "name": "Classic Lasagna",
+      "ingredients": ["ground beef", "onion", "garlic", "tomato paste", "canned crushed tomatoes", "dried basil", "dried oregano", "lasagna noodles", "ricotta cheese", "mozzarella cheese", "parmesan cheese"],
+      "method": "1. Preheat the oven to 375°F. 2. Cook the ground beef, onion, and garlic in a large skillet over medium heat until browned. 3. Stir in the tomato paste, canned tomatoes, basil, and oregano. 4. Bring to a simmer and cook for 10-15 minutes, or until the sauce has thickened. 5. Cook the lasagna noodles according to the package instructions. 6. In a 9x13-inch baking dish, spread a layer of the meat sauce. 7. Top with a layer of lasagna noodles, then a layer of ricotta cheese, mozzarella cheese, and parmesan cheese. 8. Repeat the layers until all of the ingredients are used up. 9. Cover with foil and bake for 25 minutes. 10. Remove the foil and bake for an additional 25-30 minutes, or until the cheese is melted and bubbly. 11. Let cool for 10 minutes before serving.",
+      "rating": 4.5,
+      "favorite": false
+    },
+    {
+      "chef_id": 4,
+      "name": "Beef Stroganoff",
+      "ingredients": ["beef sirloin", "onion", "garlic", "mushrooms", "flour", "beef broth", "sour cream", "egg noodles"],
+      "method": "1. Cook the egg noodles according to the package instructions. 2. In a large skillet, cook the beef, onion, and garlic over medium heat until browned. 3. Add the mushrooms and cook until softened. 4. Stir in the flour and cook for 1-2 minutes. 5. Gradually stir in the beef broth, scraping up any browned bits from the bottom of the skillet. 6. Bring to a simmer and cook for 10-15 minutes, or until the sauce has thickened. 7. Stir in the sour cream and heat through. 8. Serve the beef stroganoff over the cooked egg noodles.",
+      "rating": 4.2,
+      "favorite": false
+    },
+    {
+      "chef_id": 4,
+      "name": "Tiramisu",
+      "ingredients": ["egg yolks", "sugar", "mascarpone cheese", "heavy cream", "ladyfingers", "coffee", "cocoa powder"],
+      "method": "1. In a large bowl, beat the egg yolks and sugar until pale and thick. 2. Add the mascarpone cheese and beat until smooth. 3. In a separate bowl, beat the heavy cream until stiff peaks form. 4. Gently fold the whipped cream into the mascarpone mixture. 5. In a small bowl, mix together the coffee and a splash of rum (optional). 6. Dip the ladyfingers in the coffee mixture and arrange in a single layer in the bottom of a 9x13-inch dish. 7. Spoon half of the mascarpone mixture over the ladyfingers. 8. Repeat with another layer of ladyfingers and mascarpone mixture. 9. Refrigerate for at.",
+      "rating": 4.2,
+      "favorite": false
+    },
+    {
+      "chef_id": 5,
+      "name": "Spaghetti and Meatballs",
+      "ingredients": ["spaghetti", "ground beef", "breadcrumbs", "egg", "onion", "garlic", "tomato sauce", "dried basil", "dried oregano", "parmesan cheese"],
+      "method": "1. Cook the spaghetti according to the package instructions. 2. In a large bowl, combine the ground beef, breadcrumbs, egg, onion, garlic, and a pinch of salt and pepper. Mix well. 3. Form the mixture into meatballs (about 1-2 inches in diameter). 4. In a large skillet, heat a drizzle of olive oil over medium-high heat. Add the meatballs and cook until browned on all sides. 5. Remove the meatballs from the skillet and set aside. 6. Add the tomato sauce, basil, and oregano to the skillet. Bring to a simmer. 7. Return the meatballs to the skillet and spoon the sauce over the top. 8. Simmer for 10-15 minutes, or until the meatballs are cooked through. 9. Serve the spaghetti topped with the meatballs and sauce, and sprinkle with grated parmesan cheese.",
+      "rating": 4.6,
+      "favorite": false
+    },
+    {
+      "chef_id": 5,
+      "name": "Lemon Garlic Shrimp",
+      "ingredients": ["shrimp", "butter", "garlic", "lemon", "white wine", "parsley"],
+      "method": "1. In a large skillet, melt the butter over medium heat. 2. Add the garlic and cook for 1-2 minutes, or until fragrant. 3. Add the shrimp and cook until pink and cooked through. 4. Squeeze the lemon juice over the shrimp and stir in the white wine. 5. Simmer for 1-2 minutes, or until the sauce has slightly thickened. 6. Sprinkle with chopped parsley and serve over rice or pasta.",
+      "rating": 4.8,
+      "favorite": false
+    },
+    {
+      "chef_id": 5,
+      "name": "Chocolate Mousse",
+      "ingredients": ["chocolate chips", "heavy cream", "egg whites", "sugar"],
+      "method": "1. In a heatproof bowl, melt the chocolate chips in the microwave or over a double boiler. 2. In a separate bowl, whip the heavy cream until stiff peaks form. 3. In another bowl, beat the egg whites until stiff peaks form. 4. Gradually beat in the sugar until the egg whites are glossy and stiff. 5. Gently fold the whipped cream into the melted chocolate until no white streaks remain. 6. Gently fold the egg whites into the chocolate mixture. 7. Spoon the mousse into individual serving dishes. 8. Refrigerate for at least 2 hours, or until set.",
+      "rating": 4.3,
+      "favorite": false
+    },
+    {
+      "chef_id": 6,
+      "name": "Chicken Alfredo",
+      "ingredients": ["fettuccine pasta", "boneless chicken breast", "garlic", "heavy cream", "parmesan cheese", "butter", "salt", "black pepper"],
+      "method": "1. Cook the fettuccine pasta according to package instructions. 2. Cut the chicken breast into small cubes. 3. In a large skillet, melt butter over medium heat. 4. Add the chicken and garlic to the skillet and cook until the chicken is browned on all sides. 5. Remove the chicken from the skillet and set aside. 6. Add the heavy cream to the skillet and bring to a simmer. 7. Gradually whisk in the parmesan cheese until the sauce is smooth and creamy. 8. Return the chicken to the skillet and stir to coat with the sauce. 9. Season with salt and pepper to taste. 10. Serve the chicken and sauce over the cooked fettuccine pasta.",
+      "rating": 4.7,
+      "favorite": false
+    },
+    {
+      "chef_id": 6,
+      "name": "Honey Mustard Salmon",
+      "ingredients": ["salmon fillets", "dijon mustard", "honey", "olive oil", "lemon juice", "garlic", "salt", "black pepper"],
+      "method": "1. Preheat the oven to 400°F. 2. In a small bowl, whisk together the dijon mustard, honey, olive oil, lemon juice, garlic, salt, and black pepper. 3. Place the salmon fillets in a baking dish. 4. Spoon the honey mustard mixture over the top of the salmon, spreading it evenly. 5. Bake for 12-15 minutes, or until the salmon is cooked through and flakes easily with a fork. 6. Serve with your favorite side dishes.",
+      "rating": 4.5,
+      "favorite": false
+    },
+    {
+      "chef_id": 6,
+      "name": "Apple Crisp",
+      "ingredients": ["apples", "flour", "rolled oats", "brown sugar", "butter", "cinnamon", "nutmeg", "salt"],
+      "method": "1. Preheat the oven to 375°F. 2. Peel and core the apples, and slice them into thin wedges. 3. In a large bowl, mix together the flour, rolled oats, brown sugar, cinnamon, nutmeg, and salt. 4. Cut the butter into small pieces and add it to the flour mixture. Use your fingers or a pastry cutter to combine the butter with the flour mixture until the mixture resembles coarse crumbs. 5. Add the sliced apples to the bowl and toss to coat them evenly with the flour mixture. 6. Transfer the apple mixture to a baking dish",
+      "rating": 4.5,
+      "favorite": false
+    }    
+  ]
+}
