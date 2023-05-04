@@ -1,6 +1,7 @@
 // Express Install
 const express = require("express");
 const app = express();
+// Cors Install
 const cors = require("cors");
 const chefs = require("./data/chefs.json");
 app.use(cors());
